@@ -1,4 +1,4 @@
-import { inquirer } from 'inquirer';
+import { prompt } from 'inquirer';
 
 // const fs = require('fs');
 
